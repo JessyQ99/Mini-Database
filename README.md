@@ -1,4 +1,4 @@
-# MiniSQL
+# Mini Database
 
 ## 一、任务目标
 
